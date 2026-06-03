@@ -1,38 +1,28 @@
-# PhishFinder – Real-Time Phishing Detection Plugin
 
-A browser extension designed to detect phishing websites using machine learning and URL-based analysis techniques.
+Phishing Site Detector Plugin
+This lite chrome plugin aims to detect phishing websites and warn the user. It is built with a objective of privacy, so that the user browsing data need not collected for classification. The classification is done on the client side with one-time download of classifier model.
 
-## Features
+License Beta
 
-* Real-time phishing website detection
-* URL analysis and classification
-* Browser alert system
-* Lightweight frontend interface
+Dataset: UCI Repository
+Technique: Random Forest Classifier
 
-## Technologies Used
+Requirements
+Python3.7
+sklearn==0.19.2
+numpy==1.15.0
+liac-arff==2.2.2
+Documentation
+Wiki - Complete reference
+Prepare the dataset
+Train and Export the model
+Install plugin
+Screenshot
+F1 score: 0.905
 
-* Python
-* HTML
-* CSS
-* JavaScript
-* Random Forest Machine Learning Model
+Links to few phishing sites: PDF, PhishTank
 
-## Project Structure
+References
+Intelligent phishing website detection using random forest classifier
 
-* frontend/ → User interface components
-* backend/ → Detection and analysis logic
-* static/ → Static assets and resources
 
-## Learning Outcomes
-
-* Machine learning implementation
-* Browser extension development
-* Cybersecurity fundamentals
-* Phishing detection techniques
-
-## Future Improvements
-
-* Real-time API integration
-* Improved ML accuracy
-* Threat intelligence feeds
-* Chrome Web Store deployment
