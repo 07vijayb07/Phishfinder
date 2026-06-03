@@ -52,7 +52,7 @@ liac-arff==2.2.2
 ## Screenshot
 
   F1 score: 0.905
- [Links to few phishing sites: ](https://www.phishtank.com/)
+* [Links to few phishing sites:](https://www.phishtank.com/)
  
 ---
 
@@ -66,7 +66,7 @@ liac-arff==2.2.2
 
 ## References
 
-*  [Intelligent phishing website detection using random forest : ](classifierhttps://ieeexplore.ieee.org/abstract/document/8252051/)
+*  [Intelligent phishing website detection using random forest:](classifierhttps://ieeexplore.ieee.org/abstract/document/8252051/)
 
 
 
