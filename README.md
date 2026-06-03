@@ -64,9 +64,5 @@ liac-arff==2.2.2
 
 ---
 
-## References
-
-*[Phishing website detection using random forest](classifierhttps://ieeexplore.ieee.org/abstract/document/8252051/)
-
 
 
