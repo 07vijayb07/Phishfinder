@@ -13,21 +13,20 @@ Technique: Random Forest Classifier
 
 ## Requirements
 
-```python
-Python 3.10
-scikit-learn
-numpy
-pandas
-flask
+```Python3.7
+sklearn==0.19.2
+numpy==1.15.0
+liac-arff==2.2.2
 ```
 
 ---
 
 ## Documentation
 
-* [Prepare Dataset](#)
-* [Train Model](#)
-* [Install Plugin](#)
+* [Wiki - Complete Reference](https://github.com/picopalette/phishing-detection-plugin/wiki)
+* [Prepare The Dataset](https://github.com/07vijayb07/Phishfinder/tree/main/Backend/Dataset)
+* [Train and Export Model](https://github.com/07vijayb07/Phishfinder/tree/main/Backend/Classifier)
+* [Install Plugin](https://github.com/07vijayb07/Phishfinder/tree/main/Frontend)
 
 ---
 
@@ -52,8 +51,9 @@ flask
 
 ## Screenshot
 
-![Project Screenshot](screenshots/demo.png)
-
+  F1 score: 0.905
+ [Links to few phishing sites: ](https://www.phishtank.com/)
+ 
 ---
 
 ## Future Improvements
@@ -66,7 +66,7 @@ flask
 
 ## References
 
-* Intelligent phishing website detection using random forest classifier
+*  [Intelligent phishing website detection using random forest : ](classifierhttps://ieeexplore.ieee.org/abstract/document/8252051/)
 
 
 
